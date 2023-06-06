@@ -1,0 +1,200 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family= Cabin+Condensed & display =swap');
+
+*{
+  box-sizing: border-box;
+  margin: auto;
+
+}
+
+.ico-menu{
+cursor: pointer;
+  border: 1px solid none;
+  width: 32px;
+  margin-right: 5px;
+  padding: 3px;
+  
+}
+.ico-menu div{
+  
+  align-items: center;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-bottom: 3px;
+  width: 30px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+
+}
+
+
+body{
+  background-color: black;
+}
+
+.iphone8{
+  
+
+  width: 375px;
+  height: 2953.5px;
+ border: 1px solid white;
+  
+}
+.shape1{
+  width: 375px;
+  height: 124px;
+  background-image: url(images/Rectangle\ 1.svg);
+}
+
+.borda{
+
+display:block;
+border: 2px solid rgba(255, 255, 255, 0.534);
+border-radius: 38px ;
+height: 469px;
+width: 341px;
+left: 18px;
+top: 106px;
+border-radius: 38px;
+
+}
+.logo{
+ 
+ background-image: url(images/Junior\ vetor\ site\ 1logo1.svg);
+ height: 168px;
+width: 199px;
+left: 84px;
+margin-top: 30px;
+transition-duration: 2s;
+transition-delay: 1s;
+transition-timing-function: ease;
+
+}
+
+.links{
+  display: block;
+  padding: 0%;
+  
+
+}
+
+
+.links a{
+  text-decoration: none;
+  font-size: 13pt;
+  color:white;
+  font-family: 'Cabin Condensed', sans-serif;
+  justify-content: center;
+  display: flex;
+  justify-items: flex-start;
+  align-content: space-between;
+  padding: 5px;
+  padding-top: 20px;
+  
+}
+a:hover {
+
+ color: rgb(105, 0, 167);
+
+}
+
+
+.pag{
+display: flex;
+
+}
+.bt1{
+  margin-top: 30px;
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: start;
+  padding: 10px 10px;
+  gap: 10px;
+  width: 180px;
+  height: 38px;
+  left: calc(50% - 178px/2 + 6.5px);
+  bottom: 2412.5px;
+  background: rgba(255, 0, 170, 0.925);
+  border-radius: 10px;
+  
+}
+ a{
+  text-decoration: none;
+  
+}
+.foot1{
+justify-content: space-between; 
+width: 375px;
+height: 89px;
+left: 0px;
+top: 590px;
+margin-top: 10px;
+background-image: url(images/Rectangle\ 6.svg);
+
+}
+.li2{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  list-style: url(images/favicon-16x16.png) ;
+  font-size: 15px;
+  font-family: 'Cabin Condensed', sans-serif;
+  color: aliceblue;
+  justify-items: center;
+  
+}
+.li2 li{
+  transition-duration: 2s;
+  transition-delay: 3s;
+  transition-timing-function: ease;
+  justify-content: center;
+  margin: 1px;
+  width: 170px;
+  border: 1px solid blue;
+  background-color: blueviolet ;
+  padding: 4px;
+  border-radius: 5px;
+  
+}
+h1{
+  font-family: 'Cabin Condensed', sans-serif;
+  color:blueviolet;
+  margin: auto;
+}
+h2{
+  font-family: 'Cabin Condensed', sans-serif;
+  color:rgb(255, 255, 255);
+  margin: auto;
+
+}
+p{
+  color: rgb(255, 75, 180);
+  font-family:'Cabin Condensed', sans-serif;
+  transition-duration: 2s;
+  transition-delay: 2s;
+  transition-timing-function: ease;
+}
+.shape2{
+
+  width: 375px;
+  height: 124px;
+  background-image: url(images/Rectangle\ 1.svg);
+  margin-left: -18px;
+  margin-top: 20px;
+
+}
+.criação{
+
+
+ background-image: url(images/CRIAÇÃO\ DE\ LOGOMARCAS.svg);
+}
+
+
+
+  
+
+
+
