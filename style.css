@@ -9,6 +9,11 @@
 
 }
 
+body{
+  overflow-x: hidden;
+  max-width: 365px;
+}
+
 .ico-menu{
 cursor: pointer;
   border: 1px solid none;
